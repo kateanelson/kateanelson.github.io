@@ -1,7 +1,22 @@
 ---
-title: "kateanelson.github.io"
+title: "Kate Nelson"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links: 
+  - text: LSHTM Profile 
+    href: https://www.lshtm.ac.uk/aboutus/people/nelson.kate  
+  - text: Email 
+    href: mailto::kate.nelson@lshtm.ac.uk 
+  - text: GitHub
+    href: https://github.com/kateanelson
+  - text: Google Scholar
+    href: https://scholar.google.com/citations?hl=en&user=OyOJIRAAAAAJ
 ---
 
-This is a Quarto website.
+# Test
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a Quarto website.
